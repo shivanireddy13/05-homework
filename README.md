@@ -1,4 +1,4 @@
-# This is my foundations homework in pandas
-
+# Pandas HW
+working with pandas in python - some practice work for CJS
 
  
